@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Socialite](http://socialiteinc.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://propish.vercel.app/](https://propish.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://peace-ishimwe.vercel.app/](https://peace-ishimwe.vercel.app/)
 
 - 📫 How to reach me **peaceishimwem@gmail.com**
 
